@@ -1,2 +1,2 @@
-# Telegramm-bot
-How I build my telegramm-bot
+# Telegram-bot
+How I build my telegram-bot
