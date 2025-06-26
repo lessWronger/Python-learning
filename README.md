@@ -1,2 +1,2 @@
-# Python-learning
-How I learn Pyton
+# Telegramm-bot
+How I build my telegramm-bot
